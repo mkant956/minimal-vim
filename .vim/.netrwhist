@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/mkant/work/compiler/pytest'
+let g:netrw_dirhist_2='/home/mkant/work/compiler/CoolCompilers/asgn2/TAC'
+let g:netrw_dirhist_3='/home/mkant/work/compiler/CoolCompilers/asgn2/src'
+let g:netrw_dirhist_4='/home/mkant/work/compiler/CoolCompilers/asgn2'
+let g:netrw_dirhist_5='/home/mkant/work/compiler/CoolCompilers'
+let g:netrw_dirhist_6='/home/mkant/work/compiler/CoolCompilers/asgn1'
+let g:netrw_dirhist_7='/home/mkant/work/compiler/CoolCompilers/asgn1/src'
+let g:netrw_dirhist_8='/home/mkant/Documents/passMan'

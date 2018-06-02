@@ -1,0 +1,21 @@
+"Ctrl + a --> Select All
+"Ctrl + n --> New File (Also See Ctrl + t)
+"Ctrl + o --> Open File (Opens current folder to browse)
+"Ctrl + s --> Save File
+"Ctrl + c --> Copy
+"Ctrl + v --> Paste
+"Ctrl + x --> Cut whole line
+"Ctrl + z --> Undo
+"Ctrl + r --> Redo
+"Ctrl + t --> Open new tab
+"Tab --> Indent
+"Ctrl + w --> Close (tab)
+"Ctrl + W --> Force close (Quit)
+"Ctrl + f --> Find
+"F3 --> Find Next
+"Ctrl + h --> Replace All
+"Shift + t --> Select (HTML, XML etc.) tag (inclusive)
+"Shift + T --> Select (HTML, XML etc.) tag (exclusive)
+"Shift + { --> Select text between flower brackets
+"Shift + [ --> Select text between square brackets
+"Shift + ( --> Select text between parentheses
